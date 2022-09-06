@@ -1,0 +1,151 @@
+<style>@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,200;0,400;1,100;1,200;1,400&display=swap');
+
+</style>body {
+    background-color: #FFFFFF;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700;
+}
+
+.header-tittle {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+
+}
+
+.change a {
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+    margin-left: 30px;
+
+}
+
+.big {
+    font-size: 40px;
+}
+
+.aa {
+    /* padding-left: 40px; */
+    padding-right: 50%;
+}
+
+.btn {
+    background-color: #E02C6D;
+    padding: 10px 24px;
+    gap: 8px;
+    border-radius: 41px;
+}
+
+.introder {
+    display: flex;
+    margin-top: 100px;
+    margin-right: 20%;
+    margin-left: 15%;
+
+}
+
+.fill {
+    margin-top: 69px;
+    text-align: center;
+    padding-top: 10px;
+
+    box-shadow: 2px 3px 6px #AAAAAA;
+    margin-left: 165px;
+    margin-right: 165px;
+
+
+
+}
+
+.bl img {
+
+    margin: 40px;
+}
+
+.center {
+    font-size: 2em;
+    margin-top: 113px;
+    margin-bottom: 30px;
+}
+
+.center h1 {
+    text-align: center;
+}
+
+.images img {
+    width: 300px;
+    height: 256px;
+    padding-top: 10px;
+    padding-left: 17px;
+}
+
+.page-author {
+    padding-left: 20px;
+}
+
+.yellow {
+    color: orange;
+}
+
+.fexible {
+    padding-right: 13px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+}
+
+.collum {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-column-gap: 30px;
+    grid-row-gap: 30px;
+    margin-left: 212px;
+    margin-right: 181px;
+
+
+}
+
+.image {
+    box-shadow: 2px 3px 6px #AAAA;
+    margin-right: 100px;
+}
+
+.nai a {
+    text-decoration: none;
+    color: #E02C6D;
+}
+
+.nai {
+    text-align: end;
+    margin-top: 50px;
+    margin-right: 280px;
+}
+
+.flex-end {
+    display: flex;
+    margin-top: 78px;
+    margin-left: 165px;
+    margin-right: 175px;
+
+}
+
+.last-flex {
+    margin-left: 96px;
+}
+
+.finally {
+    color: #FFFFFF;
+}
+
+.last-one {
+    margin-top: 100px;
+    text-align: center;
+    background-color: #0A0826;
+    padding: 50px 589px;
+}
+
+.finally span i {
+    padding-left: 10px;
+}
